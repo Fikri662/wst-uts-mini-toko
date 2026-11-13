@@ -11,7 +11,8 @@
     "quality:check": "biome check public/app.js src/cart.js"
   },
   "devDependencies": {
-    "@biomejs/biome": "2.5.15"
+    "@biomejs/biome": "2.5.15",
+    "@types/node": "^26.6.6"
   },
   "engines": {
     "node": ">=20.19.0"
